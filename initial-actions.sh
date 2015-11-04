@@ -1,5 +1,7 @@
 #!/bin/bash
 
-./cleanup.sh
+./remove-bloat.sh
 ./update.sh
 ./install.sh
+./cleanup.sh
+
