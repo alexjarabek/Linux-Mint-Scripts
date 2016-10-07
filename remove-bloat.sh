@@ -8,5 +8,5 @@ packages=(
 
 for package in ${packages[*]}
 do
-    sudo apt-get -y purge $package
+    apt-get -y purge $package
 done

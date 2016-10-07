@@ -10,5 +10,5 @@ packages=(
 
 for package in ${packages[*]}
 do
-    sudo apt-get -y install $package
+    apt-get -y install $package
 done
