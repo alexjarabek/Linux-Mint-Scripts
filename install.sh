@@ -1,14 +1,6 @@
 #!/bin/bash
 
-packages=(
-    keepass2
-    g++
-    git
-    gdc
-    haskell-platform
-)
+while read line; do
+    apt-get -y install $line
+done < packages.txt
 
-for package in ${packages[*]}
-do
-    apt-get -y install $package
-done
