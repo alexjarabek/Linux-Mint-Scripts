@@ -1,8 +1,6 @@
 #!/bin/bash
 
 packages=(
-    mint-search-addon
-    mint-stylish-addon
     thunderbird
 )
 
