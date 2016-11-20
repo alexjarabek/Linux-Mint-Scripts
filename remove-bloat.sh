@@ -1,10 +1,6 @@
 #!/bin/bash
 
-packages=(
-    thunderbird
-)
+while read line; do
+    apt-get -y purge $line
+done < bloat.txt
 
-for package in ${packages[*]}
-do
-    apt-get -y purge $package
-done
