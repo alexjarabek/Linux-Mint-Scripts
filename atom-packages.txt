@@ -1,0 +1,4 @@
+disable-mru-tabbing
+language-haskell
+minimap
+
