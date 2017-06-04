@@ -2,6 +2,7 @@ git
 git-gui
 keepass2
 g++
+caja-open-terminal
 haskell-platform
 openjdk-8-jdk
 openjdk-9-jdk
