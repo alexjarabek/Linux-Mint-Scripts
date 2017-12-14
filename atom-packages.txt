@@ -1,4 +1,5 @@
 disable-mru-tabbing
+highlight-selected
 language-haskell
+language-rust
 minimap
-
