@@ -1,6 +1,7 @@
 git
 git-gui
 keepass2
+vim
 g++
 caja-open-terminal
 haskell-platform
