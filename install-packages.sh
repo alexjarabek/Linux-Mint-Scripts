@@ -3,4 +3,4 @@
 while read line; do
     apt-get -y install $line
 done < packages.txt
-./setup-stack.sh
+./setup-software.sh
