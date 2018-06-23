@@ -6,6 +6,3 @@
 ./install-packages.sh
 ./cleanup.sh
 ./config.sh
-
-echo ""
-echo "Remember to first run Atom and then install Atom packages using install-atom-packages.sh. This must be done separately because Atom breaks if it's not run at least once before installing packages for it."

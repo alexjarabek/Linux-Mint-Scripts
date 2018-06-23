@@ -7,5 +7,3 @@ caja-open-terminal
 openjdk-8-jdk
 openjdk-9-jdk
 openjdk-9-jre
-atom
-
