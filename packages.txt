@@ -1,6 +1,6 @@
 git
 git-gui
-keepass2
+keepassxc
 vim
 g++
 caja-open-terminal
